@@ -1,0 +1,1 @@
+# A-vRO-plugin-for-Azure
